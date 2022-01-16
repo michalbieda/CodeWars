@@ -1,6 +1,8 @@
 # CodeWars task solutions
 
-This is a bit of space where I share (or just save to see in the future) my solutions to CodeWars task I have already finished.
+This is a space where I share my solutions to CodeWars task I have already finished.
+
+This will be a good place to come back in the future to take a look how I solve them :)
 
 Any comments and/or discussion appreciated!
 
